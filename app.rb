@@ -19,7 +19,7 @@ module FormsLab
         Ship.new(ship)
       end
       
-      @courses = 
+      @ships = Ships.all
     end
     
   end
